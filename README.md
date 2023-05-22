@@ -1,15 +1,18 @@
 <h1>Немного картинок от Stable Diffusion</h1>
 Для выполнения данного задания была использована нейросеть Stable Diffusion с графическим интерфейсом [Easy Diffusion](https://github.com/cmdr2/stable-diffusion-ui)</BR></BR>
-Запросы, которые были сгенерированы - это:</BR>
+<h1>Запросы, которые были сгенерированы - это:</h1></BR>
+
 a banana tied to a balloon flies over the waves of the night sea</BR>
 a friendly family spends the morning in a clearing for a picnic</BR>
 The earth is being rebuilt into a machine</BR></BR>
 
-<h1>Для генерации были использованы следующие модели:</h1></BR>
-Базовая Stable Diffusion версии 1.4</BR>
-![a_banana_tied_to_a_balloon_flies_over_the_waves_of_the_night_sea_S3834107710_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/58be3fe3-90a3-4205-8f42-f617dfb49f8c)
-![a_friendly_family_spends_the_morning_in_a_clearing_for_a_picnic_S4133088572_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/fa1438ef-bf2b-431f-88ab-fd01ea4d8a85)
-![The_earth_is_being_rebuilt_into_a_machine_S2588450464_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/a8389f1b-0773-45ae-b049-102809f94ce1)</BR>
+<h1>Для генерации были использованы следующие модели:</h1>
+  
+</BR>Базовая Stable Diffusion версии 1.4</BR>
+![a_banana_tied_to_a_balloon_flies_over_the_waves_of_the_night_sea_S3834107710_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/cb7b7348-084c-4180-8960-c569c3f39d68)
+![a_friendly_family_spends_the_morning_in_a_clearing_for_a_picnic_S4133088572_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/37f5358e-c631-4167-9f5d-942dfbf5272e)
+![The_earth_is_being_rebuilt_into_a_machine_S2588450464_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/e6f8ad20-3af5-495a-9381-1d8659361621)
+
 
 [GhostMix](https://civitai.com/models/36520/ghostmix)</BR>
 ![a_banana_tied_to_a_balloon_flies_over_the_waves_of_the_night_sea_S1808747712_St40_G15](https://github.com/Yaroslav-L/CVE8/assets/66304507/e7e1ed24-d536-4f40-a1cc-7e2cb9a991ac)
